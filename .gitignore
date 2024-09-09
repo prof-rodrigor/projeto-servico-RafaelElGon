@@ -16,7 +16,6 @@ local.properties
 .loadpath
 .recommenders
 .externalToolBuilders/
-application.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
